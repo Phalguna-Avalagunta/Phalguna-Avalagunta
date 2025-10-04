@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=3F7EF7&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=Hi+👋+I'm+Phalguna+Avalagunta;Cloud+%26+AI+Developer+%7C+MSc+Computer+Science+%40+UEL;AWS+%7C+Python+%7C+Machine+Learning+%7C+DevOps" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+
+# 👋 Hi, I'm Phalguna Avalagunta
+
+### 💼 Cloud & AI Developer | 🎓 MSc Computer Science @ UEL | ☁️ AWS Enthusiast
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
