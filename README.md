@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Phalguna%20Avalagunta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AI%20Developer%20%7C%20MSc%20Computer%20Science%20@%20UEL&descAlignY=51&descSize=18)
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=3F7EF7&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=Hi+👋+I'm+Phalguna+Avalagunta;Cloud+%26+AI+Developer+%7C+MSc+Computer+Science+%40+UEL;AWS+%7C+Python+%7C+Machine+Learning+%7C+DevOps" alt="Typing SVG" />
 
-# Hi there, I'm Phalguna Avalagunta 👋
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### Cloud & AI Developer | MSc Computer Science @ UEL | AWS Enthusiast
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phalguna-avalagunta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u2811669@uel.ac.uk)
