@@ -6,8 +6,8 @@
 
 ### Cloud & AI Developer | MSc Computer Science @ UEL | AWS Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phalguna-cloud-ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phalguna.avalagunta252@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phalguna-avalagunta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u2811669@uel.ac.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phalguna-avalagunta)
 
 </div>
@@ -138,9 +138,10 @@ Automated deployment pipeline using Jenkins, Docker, and AWS CodePipeline.
 
 ## 📫 Get In Touch
 
-- 📧 Email: phalguna.avalagunta252@outlook.com
+- 📧 Email: u2811669@uel.ac.uk
+- 📧 Personal: phalguna.avalagunta252@gmail.com
 - 📱 Phone: +44 07741820922
-- 💼 LinkedIn: [phalguna-cloud-ai](https://linkedin.com/in/phalguna-cloud-ai)
+- 💼 LinkedIn: [phalguna-avalagunta](https://linkedin.com/in/phalguna-avalagunta)
 - 📍 Location: London, UK
 
 ---
