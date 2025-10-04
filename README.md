@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Pha.A.png" alt="Phalguna Avalagunta" width="200" style="border-radius: 50%; border: 4px solid #0077B5;"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Phalguna%20Avalagunta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AI%20Developer%20%7C%20MSc%20Computer%20Science%20@%20UEL&descAlignY=51&descSize=18)
 
 # Hi there, I'm Phalguna Avalagunta 👋
 
