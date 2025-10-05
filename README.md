@@ -143,7 +143,7 @@ Automated deployment pipeline using Jenkins, Docker, and AWS CodePipeline.
 ## 📫 Get In Touch
 
 - 📧 Email: u2811669@uel.ac.uk
-- 📧 Personal: phalguna.avalagunta252@gmail.com
+- 📧 Personal: phalgunaavalagunta252@gmail.com
 - 📱 Phone: +44 07741820922
 - 💼 LinkedIn: [phalguna-avalagunta](https://linkedin.com/in/phalguna-avalagunta)
 - 📍 Location: London, UK
