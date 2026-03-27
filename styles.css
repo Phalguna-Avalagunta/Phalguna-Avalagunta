@@ -1,13 +1,46 @@
 .header {
-    background: linear-gradient(90deg, #00f260, #0575e6);
-    color: white;
+    background: linear-gradient(90deg, #00f, #f0f);
+    color: #fff;
 }
 
-h1 {
-    font-size: 3em;
+.container {
+    padding: 2rem;
 }
 
-footer {
-    background: black;
+.nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+}
+
+.hero {
+    background: linear-gradient(45deg, #ff0066, #00f);
+    color: #fff;
+}
+
+.cards {
+    border: 1px solid #f00;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pricing {
+    background: linear-gradient(90deg, #0f0, #ff0);
+}
+
+.contactGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.btn {
+    background-color: #00f;
     color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
